@@ -1,7 +1,7 @@
 # PrimeiroCommit
 <p align="center">Seja bem vindo ao meu Primeiro projeto no Github, Aula de Fundamentos de T.I. Prof. Gabriela Senna</p>
 
-### Comandos GitHub
+### :código: Comandos GitHub
 
 - git add: Move as alterações do diretório de trabalho para a área de staging. Assim, você tem a oportunidade de preparar um instantâneo antes de realizar o commit ao histórico oficial.
 - Git Branch: Esse comando é a ferramenta de administração de ramificações de uso geral. Permite criar ambientes de desenvolvimento isolados em um único repositório.
